@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "harri",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hzSilence/harri-npm-01.git"
+  },
+  "keywords": [],
+  "author": "harri-zhao",
   "license": "ISC"
 }
